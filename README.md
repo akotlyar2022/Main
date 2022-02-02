@@ -1,2 +1,2 @@
 # Main
-Main repository
+Main repository Это мой первый репозиторий на ГитХабе
